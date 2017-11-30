@@ -1,0 +1,16 @@
+{
+	"author": "wnager",
+	"name": "wanger-censorify",
+	"version": "0.1.2",
+	"description": "Censors words out of text",
+	"main": "censortext",
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/wangerwang/STRANGEEIGHT"
+	},
+	"keywords":"censor",
+	"dependencies": {},
+	"engines":{
+		"node": "*"
+	}
+}
